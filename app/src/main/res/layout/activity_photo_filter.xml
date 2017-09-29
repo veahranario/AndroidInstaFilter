@@ -20,6 +20,7 @@
       app:layout_constraintStart_toStartOf="parent"
       app:layout_constraintEnd_toEndOf="parent">
 
+    
     <ImageButton
         android:id="@+id/saveButton"
         android:layout_width="wrap_content"
@@ -34,7 +35,7 @@
         android:contentDescription="@string/save"/>
   </android.support.constraint.ConstraintLayout>
 
-  
+
   <co.blackfintech.instafilter.views.HorizontalListView
       android:id="@+id/horizontalList"
       android:layout_width="match_parent"
