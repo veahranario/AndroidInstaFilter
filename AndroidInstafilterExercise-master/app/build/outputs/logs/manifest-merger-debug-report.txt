@@ -1,0 +1,175 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\DEVPARTNERS SOFTWARE\AndroidStudioProjects\AndroidInstafilterExercise-master\AndroidInstafilterExercise-master\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\DEVPARTNERS SOFTWARE\AndroidStudioProjects\AndroidInstafilterExercise-master\AndroidInstafilterExercise-master\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\DEVPARTNERS SOFTWARE\AndroidStudioProjects\AndroidInstafilterExercise-master\AndroidInstafilterExercise-master\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\DEVPARTNERS SOFTWARE\AndroidStudioProjects\AndroidInstafilterExercise-master\AndroidInstafilterExercise-master\app\src\main\AndroidManifest.xml:2:1-30:12
+MERGED from [jp.co.cyberagent.android.gpuimage:gpuimage-library:1.4.1] C:\Users\DEVPARTNERS SOFTWARE\.gradle\caches\transforms-1\files-1.1\gpuimage-library-1.4.1.aar\6260203e6a52716ee3fcdf63291b3d7e\AndroidManifest.xml:2:1-12:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\DEVPARTNERS SOFTWARE\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\0dc01c9571cdc2f521859882148df948\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\DEVPARTNERS SOFTWARE\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\59e86fc1b9eee87a1a9cce942407c951\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\DEVPARTNERS SOFTWARE\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\63accda82a8b41b191269d08b3ff21a5\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\DEVPARTNERS SOFTWARE\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\7417f62b02423148e632e686b2da8e16\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\DEVPARTNERS SOFTWARE\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\0cf959acf97bcbfbc400a632dafc6c13\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\DEVPARTNERS SOFTWARE\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\1d2211c9a64d7e465e33341411fff262\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\DEVPARTNERS SOFTWARE\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\ca49c3a2fa3e497fd18bbb50847d3817\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\DEVPARTNERS SOFTWARE\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\787588dbd3a05f5ec9e8c9489359a6d6\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\DEVPARTNERS SOFTWARE\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\2c7720b5b627595380a93def0a698cff\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\DEVPARTNERS SOFTWARE\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\3012e43b72690945f144a08ff119d5d4\AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\DEVPARTNERS SOFTWARE\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\4ec86f05eefa1fb9353f3e31717e5dd7\AndroidManifest.xml:17:1-30:12
+INJECTED from C:\Users\DEVPARTNERS SOFTWARE\AndroidStudioProjects\AndroidInstafilterExercise-master\AndroidInstafilterExercise-master\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\DEVPARTNERS SOFTWARE\AndroidStudioProjects\AndroidInstafilterExercise-master\AndroidInstafilterExercise-master\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\DEVPARTNERS SOFTWARE\AndroidStudioProjects\AndroidInstafilterExercise-master\AndroidInstafilterExercise-master\app\src\main\AndroidManifest.xml:2:1-30:12
+	package
+		ADDED from C:\Users\DEVPARTNERS SOFTWARE\AndroidStudioProjects\AndroidInstafilterExercise-master\AndroidInstafilterExercise-master\app\src\main\AndroidManifest.xml:3:5-42
+		INJECTED from C:\Users\DEVPARTNERS SOFTWARE\AndroidStudioProjects\AndroidInstafilterExercise-master\AndroidInstafilterExercise-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\DEVPARTNERS SOFTWARE\AndroidStudioProjects\AndroidInstafilterExercise-master\AndroidInstafilterExercise-master\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\DEVPARTNERS SOFTWARE\AndroidStudioProjects\AndroidInstafilterExercise-master\AndroidInstafilterExercise-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\DEVPARTNERS SOFTWARE\AndroidStudioProjects\AndroidInstafilterExercise-master\AndroidInstafilterExercise-master\app\src\main\AndroidManifest.xml:2:1-30:12
+		INJECTED from C:\Users\DEVPARTNERS SOFTWARE\AndroidStudioProjects\AndroidInstafilterExercise-master\AndroidInstafilterExercise-master\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\DEVPARTNERS SOFTWARE\AndroidStudioProjects\AndroidInstafilterExercise-master\AndroidInstafilterExercise-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\DEVPARTNERS SOFTWARE\AndroidStudioProjects\AndroidInstafilterExercise-master\AndroidInstafilterExercise-master\app\src\main\AndroidManifest.xml:2:1-30:12
+		INJECTED from C:\Users\DEVPARTNERS SOFTWARE\AndroidStudioProjects\AndroidInstafilterExercise-master\AndroidInstafilterExercise-master\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\DEVPARTNERS SOFTWARE\AndroidStudioProjects\AndroidInstafilterExercise-master\AndroidInstafilterExercise-master\app\src\main\AndroidManifest.xml:2:11-69
+uses-feature#0x00020000
+ADDED from C:\Users\DEVPARTNERS SOFTWARE\AndroidStudioProjects\AndroidInstafilterExercise-master\AndroidInstafilterExercise-master\app\src\main\AndroidManifest.xml:5:3-7:33
+	android:glEsVersion
+		ADDED from C:\Users\DEVPARTNERS SOFTWARE\AndroidStudioProjects\AndroidInstafilterExercise-master\AndroidInstafilterExercise-master\app\src\main\AndroidManifest.xml:6:7-39
+	android:required
+		ADDED from C:\Users\DEVPARTNERS SOFTWARE\AndroidStudioProjects\AndroidInstafilterExercise-master\AndroidInstafilterExercise-master\app\src\main\AndroidManifest.xml:7:7-30
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\DEVPARTNERS SOFTWARE\AndroidStudioProjects\AndroidInstafilterExercise-master\AndroidInstafilterExercise-master\app\src\main\AndroidManifest.xml:9:3-79
+	android:name
+		ADDED from C:\Users\DEVPARTNERS SOFTWARE\AndroidStudioProjects\AndroidInstafilterExercise-master\AndroidInstafilterExercise-master\app\src\main\AndroidManifest.xml:9:20-76
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\DEVPARTNERS SOFTWARE\AndroidStudioProjects\AndroidInstafilterExercise-master\AndroidInstafilterExercise-master\app\src\main\AndroidManifest.xml:10:3-78
+	android:name
+		ADDED from C:\Users\DEVPARTNERS SOFTWARE\AndroidStudioProjects\AndroidInstafilterExercise-master\AndroidInstafilterExercise-master\app\src\main\AndroidManifest.xml:10:20-75
+application
+ADDED from C:\Users\DEVPARTNERS SOFTWARE\AndroidStudioProjects\AndroidInstafilterExercise-master\AndroidInstafilterExercise-master\app\src\main\AndroidManifest.xml:12:3-28:17
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\DEVPARTNERS SOFTWARE\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\0dc01c9571cdc2f521859882148df948\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\DEVPARTNERS SOFTWARE\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\0dc01c9571cdc2f521859882148df948\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\DEVPARTNERS SOFTWARE\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\59e86fc1b9eee87a1a9cce942407c951\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\DEVPARTNERS SOFTWARE\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\59e86fc1b9eee87a1a9cce942407c951\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\DEVPARTNERS SOFTWARE\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\63accda82a8b41b191269d08b3ff21a5\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\DEVPARTNERS SOFTWARE\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\63accda82a8b41b191269d08b3ff21a5\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\DEVPARTNERS SOFTWARE\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\7417f62b02423148e632e686b2da8e16\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\DEVPARTNERS SOFTWARE\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\7417f62b02423148e632e686b2da8e16\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\DEVPARTNERS SOFTWARE\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\0cf959acf97bcbfbc400a632dafc6c13\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\DEVPARTNERS SOFTWARE\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\0cf959acf97bcbfbc400a632dafc6c13\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\DEVPARTNERS SOFTWARE\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\1d2211c9a64d7e465e33341411fff262\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\DEVPARTNERS SOFTWARE\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\1d2211c9a64d7e465e33341411fff262\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\DEVPARTNERS SOFTWARE\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\ca49c3a2fa3e497fd18bbb50847d3817\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\DEVPARTNERS SOFTWARE\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\ca49c3a2fa3e497fd18bbb50847d3817\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\DEVPARTNERS SOFTWARE\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\787588dbd3a05f5ec9e8c9489359a6d6\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\DEVPARTNERS SOFTWARE\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\787588dbd3a05f5ec9e8c9489359a6d6\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\DEVPARTNERS SOFTWARE\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\2c7720b5b627595380a93def0a698cff\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\DEVPARTNERS SOFTWARE\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\2c7720b5b627595380a93def0a698cff\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\DEVPARTNERS SOFTWARE\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\3012e43b72690945f144a08ff119d5d4\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\DEVPARTNERS SOFTWARE\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\3012e43b72690945f144a08ff119d5d4\AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\DEVPARTNERS SOFTWARE\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\4ec86f05eefa1fb9353f3e31717e5dd7\AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\DEVPARTNERS SOFTWARE\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\4ec86f05eefa1fb9353f3e31717e5dd7\AndroidManifest.xml:24:5-28:19
+	android:supportsRtl
+		ADDED from C:\Users\DEVPARTNERS SOFTWARE\AndroidStudioProjects\AndroidInstafilterExercise-master\AndroidInstafilterExercise-master\app\src\main\AndroidManifest.xml:17:7-33
+	android:label
+		ADDED from C:\Users\DEVPARTNERS SOFTWARE\AndroidStudioProjects\AndroidInstafilterExercise-master\AndroidInstafilterExercise-master\app\src\main\AndroidManifest.xml:15:7-39
+	android:roundIcon
+		ADDED from C:\Users\DEVPARTNERS SOFTWARE\AndroidStudioProjects\AndroidInstafilterExercise-master\AndroidInstafilterExercise-master\app\src\main\AndroidManifest.xml:16:7-52
+	android:icon
+		ADDED from C:\Users\DEVPARTNERS SOFTWARE\AndroidStudioProjects\AndroidInstafilterExercise-master\AndroidInstafilterExercise-master\app\src\main\AndroidManifest.xml:14:7-41
+	android:allowBackup
+		ADDED from C:\Users\DEVPARTNERS SOFTWARE\AndroidStudioProjects\AndroidInstafilterExercise-master\AndroidInstafilterExercise-master\app\src\main\AndroidManifest.xml:13:7-33
+	android:theme
+		ADDED from C:\Users\DEVPARTNERS SOFTWARE\AndroidStudioProjects\AndroidInstafilterExercise-master\AndroidInstafilterExercise-master\app\src\main\AndroidManifest.xml:18:7-38
+activity#co.blackfintech.instafilter.activities.SplashActivity
+ADDED from C:\Users\DEVPARTNERS SOFTWARE\AndroidStudioProjects\AndroidInstafilterExercise-master\AndroidInstafilterExercise-master\app\src\main\AndroidManifest.xml:19:5-25:16
+	android:name
+		ADDED from C:\Users\DEVPARTNERS SOFTWARE\AndroidStudioProjects\AndroidInstafilterExercise-master\AndroidInstafilterExercise-master\app\src\main\AndroidManifest.xml:19:15-56
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\DEVPARTNERS SOFTWARE\AndroidStudioProjects\AndroidInstafilterExercise-master\AndroidInstafilterExercise-master\app\src\main\AndroidManifest.xml:20:7-24:23
+action#android.intent.action.MAIN
+ADDED from C:\Users\DEVPARTNERS SOFTWARE\AndroidStudioProjects\AndroidInstafilterExercise-master\AndroidInstafilterExercise-master\app\src\main\AndroidManifest.xml:21:9-61
+	android:name
+		ADDED from C:\Users\DEVPARTNERS SOFTWARE\AndroidStudioProjects\AndroidInstafilterExercise-master\AndroidInstafilterExercise-master\app\src\main\AndroidManifest.xml:21:17-58
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\DEVPARTNERS SOFTWARE\AndroidStudioProjects\AndroidInstafilterExercise-master\AndroidInstafilterExercise-master\app\src\main\AndroidManifest.xml:23:9-69
+	android:name
+		ADDED from C:\Users\DEVPARTNERS SOFTWARE\AndroidStudioProjects\AndroidInstafilterExercise-master\AndroidInstafilterExercise-master\app\src\main\AndroidManifest.xml:23:19-66
+activity#co.blackfintech.instafilter.activities.PhotoFilterActivity
+ADDED from C:\Users\DEVPARTNERS SOFTWARE\AndroidStudioProjects\AndroidInstafilterExercise-master\AndroidInstafilterExercise-master\app\src\main\AndroidManifest.xml:26:5-63
+	android:name
+		ADDED from C:\Users\DEVPARTNERS SOFTWARE\AndroidStudioProjects\AndroidInstafilterExercise-master\AndroidInstafilterExercise-master\app\src\main\AndroidManifest.xml:26:15-61
+activity#co.blackfintech.instafilter.activities.MainActivity
+ADDED from C:\Users\DEVPARTNERS SOFTWARE\AndroidStudioProjects\AndroidInstafilterExercise-master\AndroidInstafilterExercise-master\app\src\main\AndroidManifest.xml:27:5-56
+	android:name
+		ADDED from C:\Users\DEVPARTNERS SOFTWARE\AndroidStudioProjects\AndroidInstafilterExercise-master\AndroidInstafilterExercise-master\app\src\main\AndroidManifest.xml:27:15-54
+uses-sdk
+INJECTED from C:\Users\DEVPARTNERS SOFTWARE\AndroidStudioProjects\AndroidInstafilterExercise-master\AndroidInstafilterExercise-master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\DEVPARTNERS SOFTWARE\AndroidStudioProjects\AndroidInstafilterExercise-master\AndroidInstafilterExercise-master\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\DEVPARTNERS SOFTWARE\AndroidStudioProjects\AndroidInstafilterExercise-master\AndroidInstafilterExercise-master\app\src\main\AndroidManifest.xml
+MERGED from [jp.co.cyberagent.android.gpuimage:gpuimage-library:1.4.1] C:\Users\DEVPARTNERS SOFTWARE\.gradle\caches\transforms-1\files-1.1\gpuimage-library-1.4.1.aar\6260203e6a52716ee3fcdf63291b3d7e\AndroidManifest.xml:8:5-10:41
+MERGED from [jp.co.cyberagent.android.gpuimage:gpuimage-library:1.4.1] C:\Users\DEVPARTNERS SOFTWARE\.gradle\caches\transforms-1\files-1.1\gpuimage-library-1.4.1.aar\6260203e6a52716ee3fcdf63291b3d7e\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\DEVPARTNERS SOFTWARE\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\0dc01c9571cdc2f521859882148df948\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\DEVPARTNERS SOFTWARE\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\0dc01c9571cdc2f521859882148df948\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\DEVPARTNERS SOFTWARE\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\59e86fc1b9eee87a1a9cce942407c951\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\DEVPARTNERS SOFTWARE\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\59e86fc1b9eee87a1a9cce942407c951\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\DEVPARTNERS SOFTWARE\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\63accda82a8b41b191269d08b3ff21a5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\DEVPARTNERS SOFTWARE\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\63accda82a8b41b191269d08b3ff21a5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\DEVPARTNERS SOFTWARE\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\7417f62b02423148e632e686b2da8e16\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\DEVPARTNERS SOFTWARE\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\7417f62b02423148e632e686b2da8e16\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\DEVPARTNERS SOFTWARE\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\0cf959acf97bcbfbc400a632dafc6c13\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\DEVPARTNERS SOFTWARE\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\0cf959acf97bcbfbc400a632dafc6c13\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\DEVPARTNERS SOFTWARE\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\1d2211c9a64d7e465e33341411fff262\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\DEVPARTNERS SOFTWARE\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\1d2211c9a64d7e465e33341411fff262\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\DEVPARTNERS SOFTWARE\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\ca49c3a2fa3e497fd18bbb50847d3817\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\DEVPARTNERS SOFTWARE\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\ca49c3a2fa3e497fd18bbb50847d3817\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\DEVPARTNERS SOFTWARE\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\787588dbd3a05f5ec9e8c9489359a6d6\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\DEVPARTNERS SOFTWARE\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\787588dbd3a05f5ec9e8c9489359a6d6\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\DEVPARTNERS SOFTWARE\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\2c7720b5b627595380a93def0a698cff\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\DEVPARTNERS SOFTWARE\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\2c7720b5b627595380a93def0a698cff\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\DEVPARTNERS SOFTWARE\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\3012e43b72690945f144a08ff119d5d4\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\DEVPARTNERS SOFTWARE\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\3012e43b72690945f144a08ff119d5d4\AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\DEVPARTNERS SOFTWARE\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\4ec86f05eefa1fb9353f3e31717e5dd7\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\DEVPARTNERS SOFTWARE\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\4ec86f05eefa1fb9353f3e31717e5dd7\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\DEVPARTNERS SOFTWARE\AndroidStudioProjects\AndroidInstafilterExercise-master\AndroidInstafilterExercise-master\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\DEVPARTNERS SOFTWARE\AndroidStudioProjects\AndroidInstafilterExercise-master\AndroidInstafilterExercise-master\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\DEVPARTNERS SOFTWARE\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\0dc01c9571cdc2f521859882148df948\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\DEVPARTNERS SOFTWARE\AndroidStudioProjects\AndroidInstafilterExercise-master\AndroidInstafilterExercise-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\DEVPARTNERS SOFTWARE\AndroidStudioProjects\AndroidInstafilterExercise-master\AndroidInstafilterExercise-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\DEVPARTNERS SOFTWARE\AndroidStudioProjects\AndroidInstafilterExercise-master\AndroidInstafilterExercise-master\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\DEVPARTNERS SOFTWARE\AndroidStudioProjects\AndroidInstafilterExercise-master\AndroidInstafilterExercise-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\DEVPARTNERS SOFTWARE\AndroidStudioProjects\AndroidInstafilterExercise-master\AndroidInstafilterExercise-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\DEVPARTNERS SOFTWARE\AndroidStudioProjects\AndroidInstafilterExercise-master\AndroidInstafilterExercise-master\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\DEVPARTNERS SOFTWARE\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\0dc01c9571cdc2f521859882148df948\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\DEVPARTNERS SOFTWARE\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\63accda82a8b41b191269d08b3ff21a5\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\DEVPARTNERS SOFTWARE\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\63accda82a8b41b191269d08b3ff21a5\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\DEVPARTNERS SOFTWARE\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\7417f62b02423148e632e686b2da8e16\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\DEVPARTNERS SOFTWARE\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\7417f62b02423148e632e686b2da8e16\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\DEVPARTNERS SOFTWARE\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\0cf959acf97bcbfbc400a632dafc6c13\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\DEVPARTNERS SOFTWARE\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\0cf959acf97bcbfbc400a632dafc6c13\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\DEVPARTNERS SOFTWARE\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\1d2211c9a64d7e465e33341411fff262\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\DEVPARTNERS SOFTWARE\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\1d2211c9a64d7e465e33341411fff262\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\DEVPARTNERS SOFTWARE\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\ca49c3a2fa3e497fd18bbb50847d3817\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\DEVPARTNERS SOFTWARE\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\ca49c3a2fa3e497fd18bbb50847d3817\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\DEVPARTNERS SOFTWARE\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\787588dbd3a05f5ec9e8c9489359a6d6\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\DEVPARTNERS SOFTWARE\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\787588dbd3a05f5ec9e8c9489359a6d6\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\DEVPARTNERS SOFTWARE\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\2c7720b5b627595380a93def0a698cff\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\DEVPARTNERS SOFTWARE\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\2c7720b5b627595380a93def0a698cff\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\DEVPARTNERS SOFTWARE\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\3012e43b72690945f144a08ff119d5d4\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\DEVPARTNERS SOFTWARE\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\3012e43b72690945f144a08ff119d5d4\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\DEVPARTNERS SOFTWARE\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\0dc01c9571cdc2f521859882148df948\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\DEVPARTNERS SOFTWARE\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\0dc01c9571cdc2f521859882148df948\AndroidManifest.xml:27:13-51
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\DEVPARTNERS SOFTWARE\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\4ec86f05eefa1fb9353f3e31717e5dd7\AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\DEVPARTNERS SOFTWARE\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\4ec86f05eefa1fb9353f3e31717e5dd7\AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\DEVPARTNERS SOFTWARE\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\4ec86f05eefa1fb9353f3e31717e5dd7\AndroidManifest.xml:26:13-58

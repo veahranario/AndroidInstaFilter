@@ -1,0 +1,4 @@
+#Fri Sep 29 12:47:03 SGT 2017
+base.0=C\:\\Users\\DEVPARTNERS SOFTWARE\\AndroidStudioProjects\\AndroidInstafilterExercise-master\\AndroidInstafilterExercise-master\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\10
+renamed.0=classes.dex
+file.0=C\:\\Users\\DEVPARTNERS SOFTWARE\\AndroidStudioProjects\\AndroidInstafilterExercise-master\\AndroidInstafilterExercise-master\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\10\\classes.dex
